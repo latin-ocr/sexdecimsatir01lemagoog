@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sexdecimsatir01lemagoog_0022.png"; bbox 0 0 3148 4990; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 30 1673 1544 1850">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 30 1673 1544 1850">
+     <span class='ocr_line' id='line_1_1' title="bbox 30 1673 1544 1850; baseline 0.008 -11"><span class='ocrx_word' id='word_1_1' title='bbox 30 1673 35 1698; x_wconf 80' lang='grc'>’</span> <span class='ocrx_word' id='word_1_2' title='bbox 175 1685 1235 1850; x_wconf 72' lang='lat' dir='ltr'><strong>DJUNHJUVENALIS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1382 1763 1384 1769; x_wconf 91' lang='lat'>·</span> <span class='ocrx_word' id='word_1_4' title='bbox 1541 1691 1544 1710; x_wconf 40' lang='lat'><em>*</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 364 2260 985 2460">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 364 2260 985 2460">
+     <span class='ocr_line' id='line_1_2' title="bbox 364 2260 985 2460; baseline 0.003 -71"><span class='ocrx_word' id='word_1_5' title='bbox 364 2451 368 2460; x_wconf 89' lang='lat'>.</span> <span class='ocrx_word' id='word_1_6' title='bbox 435 2260 985 2390; x_wconf 87' lang='lat' dir='ltr'><strong>SATIRARUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 528 2561 891 2647">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 528 2561 891 2647">
+     <span class='ocr_line' id='line_1_3' title="bbox 528 2561 891 2647; baseline 0 -11"><span class='ocrx_word' id='word_1_7' title='bbox 528 2561 673 2647; x_wconf 83' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_8' title='bbox 689 2561 891 2640; x_wconf 86' lang='lat' dir='ltr'>PRIMUS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1578 4990">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1578 4990">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1578 4990; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1578 4990; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
